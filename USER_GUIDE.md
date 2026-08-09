@@ -617,7 +617,7 @@ Sobee 会将设置的图标作为 Windows 窗口图标使用。
 
 - ICO
 - PNG
-- JPG / JPEG
+- JPG
 
 
 其他格式（例如）：
